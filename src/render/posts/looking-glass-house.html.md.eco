@@ -9,9 +9,7 @@ pageSize: 1
 split: true
 postDate: 'Fri Jun 05 2015 17:51:54 GMT-0600 (Mountain Daylight Time)'
 tags:
-- Looking Glass
-- Lewis Carroll
-- fiction
+- Life
 ---
 <% if @document.page.number is 0: %>
 One thing was certain, that the white kitten had had nothing to do with it:— it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.

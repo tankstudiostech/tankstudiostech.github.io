@@ -1,7 +1,7 @@
 ---
 layout: 'default'
 ---
-<%- @partial('masthead') %>
+<%- @partial('masthead-post') %>
 
 <main class="content" role="main">
   <article class="post">
@@ -68,6 +68,9 @@ layout: 'default'
         </a>
       </section>
 
+<div id="disqus_thread"></div>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
     </footer>
 
   </article>

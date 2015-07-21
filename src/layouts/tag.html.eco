@@ -1,9 +1,11 @@
 ---
 layout: 'default'
+cover: '/img/hello-masthead.jpg'
 ---
 <% @document.title = 'Tag: ' + @document.tag %>
 <% @document.section = 'tag-' + @document.tag %>
-<%- @partial('masthead') %>
+<% @document.cover = '/img/hello-masthead.jpg' %>
+<%- @partial('masthead-post') %>
 
 <main id="content" class="content" role="main">
   <h1 style="width: 80%; max-width: 710px; margin: 0px auto;">Posts for "<%= @document.tag %>" tag</h1>
