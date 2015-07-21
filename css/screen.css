@@ -503,11 +503,11 @@ body.nav-opened .site-wrapper {
     position: relative;
     display: table;
     width: 100%;
-    height: 100vh;
+    height: 75vh;
     margin-bottom: 5rem;
     text-align: center;
-    background: #222 no-repeat center center;
-    background-size: cover;
+    background: black no-repeat center center;
+    background-size: contain;
     overflow: hidden;
 }
 
@@ -767,10 +767,14 @@ body.nav-opened .nav {
 .blog-logo {
     display: block;
     float: left;
+    color: white;
     background: none !important; /* Makes sure there is never a background */
     border: none !important; /* Makes sure there is never a border */
 }
 
+.blog-logo:hover {
+    color: #c0c0c0;
+}
 .blog-logo img {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -1204,6 +1208,7 @@ body:not(.post-template) .post-title {
 .post-head.main-header {
     height: 65vh;
     min-height: 180px;
+    background-size: cover;
 }
 
 .no-cover.post-head.main-header {
