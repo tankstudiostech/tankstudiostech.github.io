@@ -8,7 +8,7 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="/favicon.ico">
-    <link  rel="stylesheet" href="/css/screen.css" /><link  rel="stylesheet" href="/css/bootstrap.css" /><link  rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <link  rel="stylesheet" href="/css/screen.css" /><link  rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
     <meta name="generator" content="Docpad 6.x" />
     <link rel="alternate" type="application/rss+xml" title="Tank Studios" href="/rss.xml" />
   </head>
@@ -59,19 +59,21 @@
     </header>
 
     <section class="post-content">
-      <p>Thank you for vising Tank Studios!  If you want to contact me, please fill out the below form, or messaging me at any of the services.</p>
+      <link  rel="stylesheet" href="/css/bootstrap.css" />
+
+<p>Thank you for vising Tank Studios!  If you want to contact me, please fill out the below form, or messaging me at any of the services.</p>
 <form method="post" action="//formspree.io/ry.tankersley@gmail.com">
   <div class="form-group">
     <label for="nameInput">Name</label>
-    <input type="text" class="form-control" id="nameInput" placeholder="Name">
+    <input type="text" name="nameInput" class="form-control" id="nameInput" placeholder="Name">
   </div>
   <div class="form-group">
     <label for="emailInput">Email address</label>
-    <input type="email" class="form-control" id="emailInput" placeholder="Email">
+    <input type="email" name="emailInput" class="form-control" id="emailInput" placeholder="Email">
   </div>
   <div class="form-group">
     <label for="messageInput">Message</label>
-    <textarea class="form-control" id="messageInput" rows="3" placeholder="Message"></textarea>
+    <textarea class="form-control" name="messageInput" id="messageInput" rows="3" placeholder="Message"></textarea>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
