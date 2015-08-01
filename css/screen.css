@@ -959,6 +959,13 @@ body:not(.post-template) .post-title {
 
 .read-more {
     text-decoration: none;
+    color: cornflowerblue;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.read-more:hover {
+    color: lightblue;
 }
 
 .post-meta {
@@ -1040,7 +1047,10 @@ body:not(.post-template) .post-title {
     line-height: 1.5em;
 }
 
-
+.small-image {
+    max-height: 500px;
+    max-width: 500px;
+}
 /* ==========================================================================
    5. Single Post - When you click on an individual post
    ========================================================================== */
