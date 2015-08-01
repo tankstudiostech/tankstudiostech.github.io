@@ -5,9 +5,9 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2015 23:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2015 23:26:28 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2015 23:13:46 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2015 23:25:49 GMT</pubDate>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>Hello everybody!  Thank you for coming to Tank Studios Blog.  My name is Ryan Tankersley 
@@ -110,7 +110,7 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
 ]]></description>
             <link>http://blog.tankstudios.net//posts/plastic-for-dinner.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/plastic-for-dinner.html</guid>
-            <pubDate>Sat, 01 Aug 2015 23:08:26 GMT</pubDate>
+            <pubDate>Sat, 01 Aug 2015 23:22:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
