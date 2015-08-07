@@ -5,9 +5,9 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 21:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 21:25:29 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2015 21:20:16 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2015 21:24:32 GMT</pubDate>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>Hello everybody!  Thank you for coming to Tank Studios Blog.  My name is Ryan Tankersley 
@@ -117,7 +117,7 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
             <description><![CDATA[<p>Most of us have so many tasks to do we lose track of them all. We may make lists, but we often need the list when we don&#39;t have it, or we simply let it fall out of date.
 <strong>Trello provides a free, easy way to create and manage tasks from wherever you are</strong>.</p>
 
-<p><img src=url(/img/trello/trello.png) alt="Trello Logo"></p>
+<p><img src="/img/trello/trello.PNG" alt="Trello Logo"></p>
 
 <p>I have been using Trello for half a year now and have found it to be beneficial to practical life management.  Here is how.</p>
 
@@ -133,7 +133,7 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
 <p>First, similar tasks are categorized into Boards.  Boards are the highest level.  One board may contian all the tasks for the house.  Another board may contain all the tasks for the office.
 <strong>Boards give clear distinctions between contexts</strong>.</p>
 
-<p><img src="url(/img/trello/trelloboards.png)" alt="Trello Boards"></p>
+<p><img src="/img/trello/trelloboards.PNG" alt="Trello Boards"></p>
 
 <p><h4>Lists</h4></p>
 <p><strong>Second, tasks within the context of a board, are grouped into lists</strong>.  These lists allow you to further organize tasks.  Want to be able to measure the progress of a task?  Then perhaps
@@ -178,7 +178,7 @@ you no longer have to carry a tasklist around with you</strong>.</p>
 <p>Trello has been a huge help to my wife and I in managing house and life projects.  <strong>What do you think?  Worth trying out, or do you already have a method you are happy with?</strong></p>]]></description>
             <link>http://blog.tankstudios.net//posts/trello.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/trello.html</guid>
-            <pubDate>Fri, 07 Aug 2015 21:19:48 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2015 21:24:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
