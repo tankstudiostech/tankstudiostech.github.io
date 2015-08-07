@@ -5,9 +5,9 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2015 21:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 21:28:29 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2015 21:24:32 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2015 21:27:33 GMT</pubDate>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>Hello everybody!  Thank you for coming to Tank Studios Blog.  My name is Ryan Tankersley 
@@ -140,7 +140,7 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
 you would organize your boards into progress lists, &quot;Not Started&quot;, &quot;In Progress&quot;, &quot;Almost There&quot;, and &quot;Done&quot;.  Would you rather, instead
 further narrow down the context of your boards?  Your lists could then be, &quot;Kitchen&quot;, &quot;Garage&quot;, &quot;Living Room&quot;, and &quot;Bathroom&quot;.</p>
 
-<p><img src="/img/trello/list.png" alt="Trello Lists"></p>
+<p><img src="/img/trello/list.PNG" alt="Trello Lists"></p>
 
 <p>But what if you want to measure both progress and context?  Labels solve that problem.</p>
 
@@ -149,7 +149,7 @@ further narrow down the context of your boards?  Your lists could then be, &quot
 desired</strong>.  So, a red label could mean &quot;Not Started&quot;, a yellow label could mean &quot;In progress&quot;, and
 a green label could mean &quot;done&quot;.</p>
 
-<p><img src="/img/trello/listwithlabels.png" alt="List With Labels"></p>
+<p><img src="/img/trello/listwithlabels.PNG" alt="List With Labels"></p>
 
 <p>Alternatively, a red label could mean &quot;Kitchen&quot;, yellow &quot;Garage&quot;, green &quot;Living Room&quot;, and blue &quot;Bathroom&quot;.</p>
 
@@ -164,7 +164,7 @@ is on, the labels it has attached,
 the due date you have set, and the people the task is assigned to.  These details are all added
 elegantly so they only draw your eye when you are looking for them.</p>
 
-<p><img src="/img/trello/complexlist.png" alt="Complex List"></p>
+<p><img src="/img/trello/complexlist.PNG" alt="Complex List"></p>
 
 <p>When you click a task, you get the opportunity to see and add even more details!  Inside the task editor, tasks can receive checklists, images, comments, and a variety of other details.</p>
 
@@ -178,7 +178,7 @@ you no longer have to carry a tasklist around with you</strong>.</p>
 <p>Trello has been a huge help to my wife and I in managing house and life projects.  <strong>What do you think?  Worth trying out, or do you already have a method you are happy with?</strong></p>]]></description>
             <link>http://blog.tankstudios.net//posts/trello.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/trello.html</guid>
-            <pubDate>Fri, 07 Aug 2015 21:24:11 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2015 21:27:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
