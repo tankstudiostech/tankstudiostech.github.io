@@ -5,9 +5,77 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2015 15:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2015 21:08:11 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2015 15:27:51 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2015 21:07:19 GMT</pubDate>
+        <item>
+            <title><![CDATA[Managing Your Life Projects and To-Do Lists with Trello]]></title>
+            <description><![CDATA[<p>Most of us have so many tasks to do we lose track of them all. We may make lists, but we often need the list when we don&#39;t have it, or we simply let it fall out of date.
+<strong>Trello provides a free, easy way to create and manage tasks from wherever you are</strong>.</p>
+
+<p><img src="/img/trello/trello.png" alt="Trello Logo"></p>
+
+<p>I have been using Trello for half a year now and have found it to be beneficial to practical life management.  Here is how.</p>
+
+<h3>Trello: The Answer to Task Management Woes</h3>
+
+<p><a title="Trello" href="http://www.trello.com/">Trello</a> allows you to manage tasks in a simple, stylish, and effective way. 
+<strong>Trello can revolutionize your task lists in three ways: categorizing, detailing, and syncing</strong>.</p>
+
+<p><h3>Categorizing</h3></p>
+<p>On a paper task list, there are typically two categories: to-do and done.  Trello allows three levels of categorization.</p>
+
+<p><h4>Boards</h4></p>
+<p>First, similar tasks are categorized into Boards.  Boards are the highest level.  One board may contian all the tasks for the house.  Another board may contain all the tasks for the office.
+<strong>Boards give clear distinctions between contexts</strong>.</p>
+
+<p><img src="/img/trello/trelloboards.png" alt="Trello Boards"></p>
+
+<p><h4>Lists</h4></p>
+<p><strong>Second, tasks within the context of a board, are grouped into lists</strong>.  These lists allow you to further organize tasks.  Want to be able to measure the progress of a task?  Then perhaps
+you would organize your boards into progress lists, &quot;Not Started&quot;, &quot;In Progress&quot;, &quot;Almost There&quot;, and &quot;Done&quot;.  Would you rather, instead
+further narrow down the context of your boards?  Your lists could then be, &quot;Kitchen&quot;, &quot;Garage&quot;, &quot;Living Room&quot;, and &quot;Bathroom&quot;.</p>
+
+<p><img src="/img/trello/list.png" alt="Trello Lists"></p>
+
+<p>But what if you want to measure both progress and context?  Labels solve that problem.</p>
+
+<p><h4>Labels</h4></p>
+<p>Finally, tasks can be attached with labels.  <strong>Tasks can have as many labels attached as
+desired</strong>.  So, a red label could mean &quot;Not Started&quot;, a yellow label could mean &quot;In progress&quot;, and
+a green label could mean &quot;done&quot;.</p>
+
+<p><img src="/img/trello/listwithlabels.png" alt="List With Labels"></p>
+
+<p>Alternatively, a red label could mean &quot;Kitchen&quot;, yellow &quot;Garage&quot;, green &quot;Living Room&quot;, and blue &quot;Bathroom&quot;.</p>
+
+<p>All these categories can be used in whatever way you want!  Nearly all of my boards are categorized differently to suit my needs.</p>
+
+<p><h3>Detailing</h3></p>
+<p>With traditional pen and paper tasklists, there is not much room for details.  With too many details, the paper will get cluttered, and it will no longer be simple and succinct.
+<strong>With Trello, you can get a clean tasklist when you only want an overview, but you then can get detailed tasks on further examination</strong>.</p>
+
+<p>When looking at a Trello board, you can see details about a task at a glance.  You can see the list it
+is on, the labels it has attached,
+the due date you have set, and the people the task is assigned to.  These details are all added
+elegantly so they only draw your eye when you are looking for them.</p>
+
+<p><img src="/img/trello/complexlist.png" alt="Complex List"></p>
+
+<p>When you click a task, you get the opportunity to see and add even more details!  Inside the task editor, tasks can receive checklists, images, comments, and a variety of other details.</p>
+
+<p><h3>Syncing</h3></p>
+<p>If you own a smartphone, your tasks are always on-hand.  Trello is a web-based application with apps on all smartphones.  <strong>Using Trello, 
+you no longer have to carry a tasklist around with you</strong>.</p>
+
+<p>Also, if there is a group of people you want working with you on the taskboard, members can be added to the board.  <strong>If one person changes a task, all members of the board immediately get the changes</strong>!</p>
+
+<p><h3>Conclusion</h3></p>
+<p>Trello has been a huge help to my wife and I in managing house and life projects.  <strong>What do you think?  Worth trying out, or do you already have a method you are happy with?</strong></p>]]></description>
+            <link>http://blog.tankstudios.net//posts/trello.html</link>
+            <guid isPermaLink="true">http://blog.tankstudios.net//posts/trello.html</guid>
+            <pubDate>Fri, 07 Aug 2015 21:06:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>Hello everybody!  Thank you for coming to Tank Studios Blog.  My name is Ryan Tankersley 
@@ -110,7 +178,7 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
 ]]></description>
             <link>http://blog.tankstudios.net//posts/plastic-for-dinner.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/plastic-for-dinner.html</guid>
-            <pubDate>Sat, 01 Aug 2015 23:22:59 GMT</pubDate>
+            <pubDate>Fri, 07 Aug 2015 21:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
