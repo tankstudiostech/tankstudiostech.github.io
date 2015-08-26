@@ -784,6 +784,12 @@ body.nav-opened .nav {
     width: auto;
 }
 
+.img-circle {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+}
+
 .menu-button {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
