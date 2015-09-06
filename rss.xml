@@ -5,9 +5,83 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2015 01:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2015 22:02:18 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2015 01:40:55 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2015 22:01:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Syncing and Securing Accounts with Last Pass]]></title>
+            <description><![CDATA[<p>
+    We always hear that our accounts are not secure because of bad passwords.  However, even using the same, memorable password for every account I make,
+    I still have a hard time remembering how to log in to my accounts.
+</p>
+<h3>Last Pass to the Rescue</h3>
+<img src="/img/tech/lastpass/lastpass-icon.png" />
+<p>
+    Last Pass is a password manager.  It stores any username/password combination you have for any given site inside its secure &quot;vault&quot;.
+    To enter the vault, it requires one master password.  Once this password is entered, it will auto-fill any request for a username and
+    password. 
+</p>
+<p>
+    <strong>This allows you to have many different passwords.</strong>  You only have to remember one master password, your &quot;last pass&quot;, and the
+    rest will be filled out by the vault.  Last Pass also has a password generator, so you don&#39;t even have to come up with the password!  <strong>Anytime
+    you are creating a new account, Last Pass will offer to generate your password and save the site.  The next time you go to log in
+    to the site, Last Pass will fill it out for you.</strong>
+</p>
+<p>
+    This 1-minute video explains it very well.
+</p>
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.3333333333333%;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RM0fzHxMASQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p><h3>Password Syncing is Awesome</h3></p>
+<p>
+    Password syncing is my favorite feature of Last Pass. The Last Pass vault
+    is available through a browser extension, website, and app.  This is better than using a web browser&#39;s built in password functionality; if you
+    save a password on your computer&#39;s browser, you can only load the saved information from that computer!  Your phone&#39;s browser will not haved the password saved!
+    <strong>But if you sign in to your Last Pass vault, you can access any account credentials on any computer.</strong>
+</p>
+<p>
+    Even better, you can have multiple accounts saved for one site.  Previously, when I needed to log in to my
+    wife&#39;s Gmail or Spotify account, or if she wanted to log in to our bank account, we would have to ask each other for the credentials.
+    <strong>With Last Pass, we can both easily log in to any account one of us has created!</strong>
+</p>
+
+<p><h3>Is Password Security Important?</h3></p>
+<p>
+    I have never been hacked;  therefore, I have always had a hard time caring enough about securing passwords.  I&#39;ll never get hacked!...<strong>But,
+    what if I did? What could happen?</strong>  Well, my money could be
+    transferred to a different bank or PayPal account.  My Facebook account could be used to say horrible things to friends.  My email could be used as a
+    spambot.  I could keep going.
+</p>
+<p>
+    <strong>But what is worse, if an attacker gets one account, and you use the same email and password for everything...the attacker has all your accounts!</strong>
+    After getting into one account, they can go to all the major banks, credit card companies, social media sites, and email sites, trying
+    that email/password combination. They would get into any of the sites you have an account for!
+</p>
+<p>
+    In fact, <a href="http://xkcd.com/792/">this xkcd comic</a> illustrates how some attackers set up websites for that very purpose!
+</p>
+<p>
+    <strong>So yes, password security is important.</strong>
+</p>
+
+<p><h3>Conclusion</h3></p>
+<p>
+    I hope this post has at least made you consider securing your accounts.  Last Pass is a great option.  I highly recommend looking into it.
+    However, there are many other great tools that accomplish the same goal.  <strong>If you use the same password for every site, take the time to
+    look into a password manager and start securing your accounts.</strong>  It took me little effort, and I have already paid off the time through
+    the password syncing!
+</p>
+<p>
+    What do you think?  Do you want to start using Last Pass, or do you already use a different one?  Feel free to tell me about it below!  Also,
+    if you have any more in-depth questions about Last Pass, ask away. I am happy to answer as best I can.
+</p>]]></description>
+            <link>http://blog.tankstudios.net//posts/last-pass.html</link>
+            <guid isPermaLink="true">http://blog.tankstudios.net//posts/last-pass.html</guid>
+            <pubDate>Sun, 06 Sep 2015 22:02:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jesus in the Old Testament - Introduction]]></title>
             <description><![CDATA[<p>
