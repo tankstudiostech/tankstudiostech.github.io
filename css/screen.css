@@ -305,16 +305,16 @@ hr {
 }
 
 blockquote {
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    margin: 1.75em 0 1.75em -2.2em;
-    padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eee;
 }
 
-blockquote p {
-    margin: 0.8em 0;
-    font-style: italic;
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+  margin-bottom: 0;
 }
 
 blockquote small {
@@ -934,20 +934,20 @@ body.nav-opened .nav {
 
 /* Add a little circle in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
-.post:after {
+/*.post:after {
     display: block;
     content: "";
     width: 7px;
     height: 7px;
     border: #E7EEF2 1px solid;
     position: absolute;
-    bottom: -5px;
+    bottom: -30px;
     left: 50%;
     margin-left: -5px;
     background: #FFF;
     border-radius: 100%;
     box-shadow: #FFF 0 0 0 5px;
-}
+}*/
 
 body:not(.post-template) .post-title {
     font-size: 3.6rem;
@@ -1056,6 +1056,23 @@ body:not(.post-template) .post-title {
 .small-image {
     max-height: 500px;
     max-width: 500px;
+}
+
+.main-header {
+    box-shadow: 0px 1px 4px 0px #000000;
+}
+
+.post-head {
+    box-shadow: 0px 1px 4px 0px #000000;
+}
+.card {
+    background-color: white;
+    box-shadow: 0px 1px 4px 0px #000000;
+    padding: 10px 20px;
+}
+
+.card p {
+    opacity: .87;
 }
 /* ==========================================================================
    5. Single Post - When you click on an individual post

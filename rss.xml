@@ -5,7 +5,7 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2015 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2015 19:47:38 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
         <pubDate>Fri, 25 Sep 2015 15:32:10 GMT</pubDate>
         <item>
@@ -22,8 +22,10 @@
 </p>
 
 <blockquote>
-    No one has ascended into heaven except He who descended from Heaven, the Son of Man.  And as Moses lifted up the serpent in the wilderness, so must
-    the Son of Man be lifted up, that whoever believes in Him may have eternal life. - John 3:13-15.
+    <p>
+        No one has ascended into heaven except He who descended from Heaven, the Son of Man.  And as Moses lifted up the serpent in the wilderness, so must
+        the Son of Man be lifted up, that whoever believes in Him may have eternal life. - John 3:13-15.
+    </p>
 </blockquote>
 
 <p>
@@ -114,7 +116,7 @@
 </p>]]></description>
             <link>http://blog.tankstudios.net//posts/jot-snake.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/jot-snake.html</guid>
-            <pubDate>Fri, 25 Sep 2015 16:25:03 GMT</pubDate>
+            <pubDate>Fri, 25 Sep 2015 19:46:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Day a Snake Tried to Kill Me]]></title>
