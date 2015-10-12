@@ -5,9 +5,130 @@
         <description><![CDATA[Blogging about my walk with Jesus in a modern world]]></description>
         <link>http://blog.tankstudios.net/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2015 23:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2015 02:26:31 GMT</lastBuildDate>
         <atom:link href="http://blog.tankstudios.net//rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2015 23:01:03 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2015 02:25:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Tech Reformation Podcast]]></title>
+            <description><![CDATA[<p>
+    Recently a few friends and I started up a podcast!  We have eight episodes currently
+    released, and we are releasing a new episode every week!
+</p>
+
+<p>
+    <strong>What is the podcast about? Where can you listen? How did we create it?</strong>
+    If you are curious to know the answer to any of those, read on!
+</p>
+
+<h3>What is the Podcast About?</h3>
+
+<p>
+    The podcast is called <em>Tech Reformation</em>, with the tagline &quot;Where the world of technology meets the
+    worldview of Christianity.&quot;  Four guys who love and follow Jesus and enjoy technology get together
+    each week to merge the two together. 
+</p>
+<p>
+    Technology is a huge part of our world today.  People are spending more time with electronics than
+    ever before, new technologies are coming out every day, and many use them without thinking.
+    We decided to think! <strong>We take the time to examine anything to do with technology,
+    exploring the world&#39;s view and discussing the Christian&#39;s view.</strong>
+</p>
+<p>
+    <strong>Also, anything that is a huge part of the culture is going to have a
+    huge impact on our Kingdom work.</strong>  Some technology is built specifically for ministry,
+    some technology is built for secular purposes but can be used for ministry, and some
+    technology should be avoided altogether.  <strong>We look for ways we can best use technology
+    for the glory of God.</strong>
+</p>
+<p>
+    In the first segment, <strong><em>Tech You Should Know</em></strong>, we explore the week&#39;s technology news.
+    Next up comes <strong><em>Tech You Should Use</em></strong> where we recommend a useful technology
+    for your daily life. Finally, in <strong><em>Theology From the Headlines</em></strong>, we discuss current hot topics through the lens of
+    a Christian worldview.
+</p> 
+<p>
+    Currently we have discussed
+    <ul>
+        <li>Virtual, Augmented, and Mixed Reality</li>
+        <li>Automating Jobs</li>
+        <li>Smartphone Usage</li>
+        <li>Drones</li>
+        <li>Apple</li>
+        <li>Free Internet</li>
+        <li>Ad Blockers</li>
+        <li>Internet Mob Justice</li>
+    </ul>
+</p>
+
+<h3>Where Can I Listen?</h3>
+
+<p>
+    Interested in listening? <strong>The best place to start is our website at <a href="http://www.techreformation.com/">techreformation.com</a>!</strong> We post
+    every episode to the site along with show notes containing links to the articles we discuss.
+</p>
+
+<p>
+    Also, you can download a podcast app to your mobile device (I use <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podcast Addict</a> on Android)
+    and search &quot;Tech Reformation.&quot;  We&#39;re the only podcast that appears!  <strong>Most podcast apps allow you
+    to download episodes so you can listen to them without Wi-Fi.</strong>
+</p>
+
+<h3>How Did it Start?</h3>
+
+<p>
+    It all started when a good friend of mine, Ben Robin, asked if I had any interest to do a podcast
+    about technology and theology.  <strong>I enjoy both subjects, so I say I would be interested.</strong>  Time goes on, and he
+    gets married and moves to Tennessee.  I forget about the podcast.
+</p>
+
+<p>
+    A couple of weeks after the move, Ben sets up a meeting with me on Google Hangouts.  I expect he just wants to
+    catch up since we haven&#39;t talked since his wedding.  <strong>You can imagine my surprise, then, when I
+    realize two other guys I don&#39;t know will be joining the call, and we will be discussing the
+    creation of a podcast!</strong>
+</p>
+
+<p>
+    We have our first meeting where we just get to know each other a bit.  The two others are named
+    Craig and Derek.  <strong>One fact is immediately apparent; Craig and Derek have never met. The only
+    connection between us all is Ben.</strong>
+</p>
+
+<p>
+    We converse for an hour, and then Ben has to leave.  Out of curiousity, I then
+    ask Craig and Derek how they know Ben.  <strong>I learn that Ben tweeted, &quot;Anybody want to
+    host a podcast with me?&quot;, and they were interested to join!</strong>  So, other than a few internet
+    messages, they didn&#39;t know Ben either!
+</p>
+
+<p>
+    <strong>Luckily, they are both awesome guys.</strong>  Over the next months, we slowly began preparing all the little
+    details that need to be put into place, and on August 9th we released our first podcast!
+</p>
+
+<p>
+    We have been recording every week since.  We have completed eight episodes and an introduction
+    episode, and it has been a blast to create.  <strong>It&#39;s like hanging out with 3 friends to talk about
+    Jesus for an hour, except we record it.</strong>
+</p>
+
+<h3>Conclusion</h3>
+
+<p>
+    If you like technology and/or love Jesus, check us out! I think you will enjoy it.
+</p>
+
+<p>
+    Any podcasts that you enjoy listening to yourself?  I&#39;d be interested in hearing about them!
+</p>
+
+<p>
+    See you next time!
+</p>]]></description>
+            <link>http://blog.tankstudios.net//posts/tech-reformation.html</link>
+            <guid isPermaLink="true">http://blog.tankstudios.net//posts/tech-reformation.html</guid>
+            <pubDate>Mon, 12 Oct 2015 02:25:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Day My Car Stopped Moving]]></title>
             <description><![CDATA[<h3>More Car Problems</h3>
@@ -107,7 +228,7 @@
     my fellow coworkers are taking turns on a mini segue!</strong>
 </p>
 
-<img src="https://qph.is.quoracdn.net/main-qimg-f9d86e8d740630c8f7d8b2343cc5210a?convert_to_webp=true" />
+<img src="../img/immovable-car/erover.png" />
 
 <p>
     I spend the next hour watching people riding and riding it myself.  These machines are awesome.  They appear
@@ -191,7 +312,7 @@
 </p>]]></description>
             <link>http://blog.tankstudios.net//posts/immovable-car.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/immovable-car.html</guid>
-            <pubDate>Sat, 03 Oct 2015 23:00:29 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2015 14:43:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jesus in the OT - Jesus the Snake]]></title>
@@ -1004,42 +1125,6 @@ as Savior and Lord, joy in what He did on the cross, and all trials will be noth
             <link>http://blog.tankstudios.net//posts/plastic-for-dinner.html</link>
             <guid isPermaLink="true">http://blog.tankstudios.net//posts/plastic-for-dinner.html</guid>
             <pubDate>Sat, 29 Aug 2015 13:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Post!]]></title>
-            <description><![CDATA[<p>Hello everybody!  Thank you for coming to Tank Studios Blog.  My name is Ryan Tankersley 
-and I&#39;ll be the author of these posts.  Feel free to check out the <a title="About Page" href="blog.tankstudios.net/about.html">About Page</a> to see what I&#39;m all about.</p>
-<h3>Wait, Haven&#39;t You Done This Before?</h3>
-
-<p>...Yeah.  The first one, Tank Studios Tech Talk, was a primer to see if I enjoyed blogging.  <strong>I did, but I felt limited</strong>. 
-First, the blog never felt like mine.  I&#39;m a software developer.  I wanted the site to be mine in the sense that I knew the code.  Blogger gave me 
-a nice, pre-packaged template that I liked, but again, it never felt like mine.  I made this website using <a title="DocPad" href="http://www.docpad.org/">DocPad</a>.
-DocPad makes creating websites with Html, JavaScript, and CSS much easier than simply starting from scratch, and I can change anything on this site
-that I want to.</p>
-<p>Secondly, I desired a broader scope than just Tech Talk.  <strong>Here I will be discussing three core subjects: Life, Tech, and Dev</strong>.
-Each subject will be tagged appropriately, so if a person only care about Life posts, that person can check the &quot;Life&quot; tag for all relevant posts.</p>
-<p>Please allow me to explain each tag.</p>
-<h4>Life</h4>
-
-<p>The Life tag will be stories from my life.  I follow Jesus as Lord, and I love discussing what that looks like.  Many Life posts will be theological.
-I also enjoy funny stories and would like to share entertaining experiences as they come.  <strong>I hope to allow people to walk through my life and
-give glory to God through my thoughts, encouragements, and stories</strong>.</p>
-<h4>Tech</h4>
-
-<p>If you read much of Tank Studios Tech Talk, you will know what this involves.  In Tech, I will primarily be discussing interesting technology as I find it.
-<strong>If a technology is useful in my life, I am sure it will be useful in somebody else&#39;s life</strong>.  I want to share that information in order to benefit you.</p>
-<h4>Dev</h4>
-
-<p>I expect this one to really only benefit software developers who stumble upon my site via Google.  In these I will be speaking of software development.
-<strong>I may post about a problem I have solved or about a personal project I am working on</strong>.  Occasionally I have solved problems and thought, &quot;I could write a blog post about that.&quot;
-If I have that thought, now I can!</p>
-<h3>Conclusion</h3>
-
-<p>There&#39;s the explanation for the new blog and the new site!  Please leave any feedback in a comment below!  Are there any topics you would like me to cover in the future?</p>
-]]></description>
-            <link>http://blog.tankstudios.net//posts/first-post.html</link>
-            <guid isPermaLink="true">http://blog.tankstudios.net//posts/first-post.html</guid>
-            <pubDate>Sat, 29 Aug 2015 03:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
