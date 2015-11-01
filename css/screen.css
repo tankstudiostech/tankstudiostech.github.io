@@ -1056,6 +1056,11 @@ body:not(.post-template) .post-title {
 .small-image {
     max-height: 500px;
     max-width: 500px;
+    margin-bottom: 3px;
+}
+
+.img-caption {
+    margin-bottom: 5px;    
 }
 
 .main-header {
